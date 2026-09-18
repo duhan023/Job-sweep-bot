@@ -1,0 +1,36 @@
+name: Daily Job Sweep
+
+on:
+  schedule:
+    # 15:00 UTC = 10:00 AM Central Daylight Time (Monday - Friday)
+    - cron: '0 15 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run Job Sweep
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python sweep.py
+
+      - name: Commit Log Back to Repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add areas/job-search-log.md
+          git commit -m "chore: update job search log [skip ci]" || echo "No changes to log"
+          git push
