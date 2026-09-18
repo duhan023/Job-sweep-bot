@@ -11,3 +11,8 @@
 ### Batch Run: 2026-09-17 23:44 CT (Total: 2)
 | Children's National Hospital | Technical Project Manager, Patient Room Technology | https://www.linkedin.com/jobs/view/technical-project-manager-patient-room-technology-at-children-s-national-hospital-4431453397 |
 | Siemens Energy | Senior Project Manager | https://www.linkedin.com/jobs/view/senior-project-manager-at-siemens-energy-4449322339 |
+
+### Batch Run: 2026-09-18 18:07 CT (Total: 3)
+| Kraus Hamdani Aerospace, Inc. | Project Manager - Engineering | https://www.linkedin.com/jobs/view/project-manager-engineering-at-kraus-hamdani-aerospace-inc-4467874316 |
+| DNV | Senior Technical Project Manager | https://www.linkedin.com/jobs/view/senior-technical-project-manager-at-dnv-4430252174 |
+| Siemens Energy | R&D Project Manager | https://www.linkedin.com/jobs/view/r-d-project-manager-at-siemens-energy-4458651357 |
