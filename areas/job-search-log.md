@@ -16,3 +16,8 @@
 | Kraus Hamdani Aerospace, Inc. | Project Manager - Engineering | https://www.linkedin.com/jobs/view/project-manager-engineering-at-kraus-hamdani-aerospace-inc-4467874316 |
 | DNV | Senior Technical Project Manager | https://www.linkedin.com/jobs/view/senior-technical-project-manager-at-dnv-4430252174 |
 | Siemens Energy | R&D Project Manager | https://www.linkedin.com/jobs/view/r-d-project-manager-at-siemens-energy-4458651357 |
+
+### Batch Run: 2026-09-22 18:34 CT (Total: 3)
+| Westinghouse Electric Company | Advanced Project Manager - ALS Platform | https://www.linkedin.com/jobs/view/advanced-project-manager-als-platform-at-westinghouse-electric-company-4467608773 |
+| Siemens | Project Manager - Power Distribution | https://www.linkedin.com/jobs/view/project-manager-power-distribution-at-siemens-4432938116 |
+| Nikkiso Clean Energy & Industrial Gases | Technical Project Manager II | https://www.linkedin.com/jobs/view/technical-project-manager-ii-at-nikkiso-clean-energy-industrial-gases-4461263840 |
