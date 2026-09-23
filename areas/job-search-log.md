@@ -21,3 +21,12 @@
 | Westinghouse Electric Company | Advanced Project Manager - ALS Platform | https://www.linkedin.com/jobs/view/advanced-project-manager-als-platform-at-westinghouse-electric-company-4467608773 |
 | Siemens | Project Manager - Power Distribution | https://www.linkedin.com/jobs/view/project-manager-power-distribution-at-siemens-4432938116 |
 | Nikkiso Clean Energy & Industrial Gases | Technical Project Manager II | https://www.linkedin.com/jobs/view/technical-project-manager-ii-at-nikkiso-clean-energy-industrial-gases-4461263840 |
+
+### Batch Run: 2026-09-23 18:53 CT (Total: 7)
+| Western Governors University | Technical Project Manager III | https://www.linkedin.com/jobs/view/technical-project-manager-iii-at-western-governors-university-4471104145 |
+| Teradyne | Technical Project Manager - Silicon Photonics (Teradyne, North Reading, MA) | https://www.linkedin.com/jobs/view/technical-project-manager-silicon-photonics-teradyne-north-reading-ma-at-teradyne-4453008747 |
+| Garmin | Project Manager 2- Engineering Business Solutions | https://www.linkedin.com/jobs/view/project-manager-2-engineering-business-solutions-at-garmin-4462023338 |
+| Applied Materials | WMO Technical Project Manager - PMO | https://www.linkedin.com/jobs/view/wmo-technical-project-manager-pmo-at-applied-materials-4469328820 |
+| Oceaneering | SWME Project Manager 2– Space Systems | https://www.linkedin.com/jobs/view/swme-project-manager-2%E2%80%93-space-systems-at-oceaneering-4443051632 |
+| Garmin | Senior Project Manager IT | https://www.linkedin.com/jobs/view/senior-project-manager-it-at-garmin-4446507968 |
+| Ford Credit | AI Project Manager | https://www.linkedin.com/jobs/view/ai-project-manager-at-ford-credit-4470958974 |
