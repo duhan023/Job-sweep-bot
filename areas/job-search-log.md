@@ -30,3 +30,9 @@
 | Oceaneering | SWME Project Manager 2– Space Systems | https://www.linkedin.com/jobs/view/swme-project-manager-2%E2%80%93-space-systems-at-oceaneering-4443051632 |
 | Garmin | Senior Project Manager IT | https://www.linkedin.com/jobs/view/senior-project-manager-it-at-garmin-4446507968 |
 | Ford Credit | AI Project Manager | https://www.linkedin.com/jobs/view/ai-project-manager-at-ford-credit-4470958974 |
+
+### Batch Run: 2026-09-24 18:51 CT (Total: 4)
+| Emerson | Engineering Project Manager - Power Retrofit Solutions | https://www.linkedin.com/jobs/view/engineering-project-manager-power-retrofit-solutions-at-emerson-4451939903 |
+| JPMorganChase | Technical Project Manager - Software Engineering, JIra, Agile environment | https://www.linkedin.com/jobs/view/technical-project-manager-software-engineering-jira-agile-environment-at-jpmorganchase-4469727068 |
+| Crowell & Moring | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-crowell-moring-4435342708 |
+| CommonSpirit Health | IT Epic Sr Project Manager | https://www.linkedin.com/jobs/view/it-epic-sr-project-manager-at-commonspirit-health-4459578505 |
