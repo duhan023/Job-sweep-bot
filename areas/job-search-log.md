@@ -36,3 +36,9 @@
 | JPMorganChase | Technical Project Manager - Software Engineering, JIra, Agile environment | https://www.linkedin.com/jobs/view/technical-project-manager-software-engineering-jira-agile-environment-at-jpmorganchase-4469727068 |
 | Crowell & Moring | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-crowell-moring-4435342708 |
 | CommonSpirit Health | IT Epic Sr Project Manager | https://www.linkedin.com/jobs/view/it-epic-sr-project-manager-at-commonspirit-health-4459578505 |
+
+### Batch Run: 2026-09-25 19:09 CT (Total: 4)
+| Koch | Project Manager | https://www.linkedin.com/jobs/view/project-manager-at-koch-4470185245 |
+| Garmin | Senior Project Manager (Web/Mobile Applications) | https://www.linkedin.com/jobs/view/senior-project-manager-web-mobile-applications-at-garmin-4472055778 |
+| Emerson | Engineering Project Manager - New Generation Projects | https://www.linkedin.com/jobs/view/engineering-project-manager-new-generation-projects-at-emerson-4443954081 |
+| AutoZone | Project Manager - Product Discovery | https://www.linkedin.com/jobs/view/project-manager-product-discovery-at-autozone-4463168979 |
