@@ -42,3 +42,14 @@
 | Garmin | Senior Project Manager (Web/Mobile Applications) | https://www.linkedin.com/jobs/view/senior-project-manager-web-mobile-applications-at-garmin-4472055778 |
 | Emerson | Engineering Project Manager - New Generation Projects | https://www.linkedin.com/jobs/view/engineering-project-manager-new-generation-projects-at-emerson-4443954081 |
 | AutoZone | Project Manager - Product Discovery | https://www.linkedin.com/jobs/view/project-manager-product-discovery-at-autozone-4463168979 |
+
+### Batch Run: 2026-09-28 21:06 CT (Total: 9)
+| NASCAR | Project Manager, Event Race Project Management | https://www.linkedin.com/jobs/view/project-manager-event-race-project-management-at-nascar-4472791795 |
+| Jabil | Senior Design Project Manager | https://www.linkedin.com/jobs/view/senior-design-project-manager-at-jabil-4471203712 |
+| Emerson | Engineering Project Manager - Turbine Mechanical Solutions | https://www.linkedin.com/jobs/view/engineering-project-manager-turbine-mechanical-solutions-at-emerson-4427664068 |
+| Aptiv | Project Manager - Robotics & Drones | https://www.linkedin.com/jobs/view/project-manager-robotics-drones-at-aptiv-4473004526 |
+| Backburner Labs Inc. | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-backburner-labs-inc-4471208221 |
+| Hitachi Energy | Project Manager - Transformers | https://www.linkedin.com/jobs/view/project-manager-transformers-at-hitachi-energy-4427911171 |
+| Siemens | Project Manager - Electrification & Automation | https://www.linkedin.com/jobs/view/project-manager-electrification-automation-at-siemens-4462397885 |
+| Capco | Project Manager - Cyber Security (CyberArk) | https://www.linkedin.com/jobs/view/project-manager-cyber-security-cyberark-at-capco-4445210416 |
+| Westinghouse Electric Company | Project Manager | https://www.linkedin.com/jobs/view/project-manager-at-westinghouse-electric-company-4462692883 |
