@@ -53,3 +53,9 @@
 | Siemens | Project Manager - Electrification & Automation | https://www.linkedin.com/jobs/view/project-manager-electrification-automation-at-siemens-4462397885 |
 | Capco | Project Manager - Cyber Security (CyberArk) | https://www.linkedin.com/jobs/view/project-manager-cyber-security-cyberark-at-capco-4445210416 |
 | Westinghouse Electric Company | Project Manager | https://www.linkedin.com/jobs/view/project-manager-at-westinghouse-electric-company-4462692883 |
+
+### Batch Run: 2026-09-29 19:50 CT (Total: 4)
+| Siemens | Senior Project Manager | https://www.linkedin.com/jobs/view/senior-project-manager-at-siemens-4463514896 |
+| Charge Robotics | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-charge-robotics-4473031557 |
+| Ford Motor Company | Technical Program Manager - ADAS SW Platform | https://www.linkedin.com/jobs/view/technical-program-manager-adas-sw-platform-at-ford-motor-company-4455204029 |
+| Trane Technologies | Manufacturing Project Manager - Technology | https://www.linkedin.com/jobs/view/manufacturing-project-manager-technology-at-trane-technologies-4454275553 |
