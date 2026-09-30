@@ -59,3 +59,9 @@
 | Charge Robotics | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-charge-robotics-4473031557 |
 | Ford Motor Company | Technical Program Manager - ADAS SW Platform | https://www.linkedin.com/jobs/view/technical-program-manager-adas-sw-platform-at-ford-motor-company-4455204029 |
 | Trane Technologies | Manufacturing Project Manager - Technology | https://www.linkedin.com/jobs/view/manufacturing-project-manager-technology-at-trane-technologies-4454275553 |
+
+### Batch Run: 2026-09-30 19:52 CT (Total: 4)
+| Drone.vet | Project Manager - Robotics & Drones | https://www.linkedin.com/jobs/view/project-manager-robotics-drones-at-drone-vet-4471999371 |
+| Simons Foundation | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-simons-foundation-4473555891 |
+| The University of Texas at Austin | Senior Project Manager (Technical) | https://www.linkedin.com/jobs/view/senior-project-manager-technical-at-the-university-of-texas-at-austin-4473951181 |
+| GE Vernova | Advanced Nuclear Senior Project Manager | https://www.linkedin.com/jobs/view/advanced-nuclear-senior-project-manager-at-ge-vernova-4473925287 |
