@@ -65,3 +65,12 @@
 | Simons Foundation | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-simons-foundation-4473555891 |
 | The University of Texas at Austin | Senior Project Manager (Technical) | https://www.linkedin.com/jobs/view/senior-project-manager-technical-at-the-university-of-texas-at-austin-4473951181 |
 | GE Vernova | Advanced Nuclear Senior Project Manager | https://www.linkedin.com/jobs/view/advanced-nuclear-senior-project-manager-at-ge-vernova-4473925287 |
+
+### Batch Run: 2026-10-01 20:11 CT (Total: 7)
+| Walmart | (USA) Project Manager I, Supply Chain Management (Freight Flow Manager) | https://www.linkedin.com/jobs/view/usa-project-manager-i-supply-chain-management-freight-flow-manager-at-walmart-4472640518 |
+| UL Solutions | Technical Project Manager, Renewable Energy Forecasting | https://www.linkedin.com/jobs/view/technical-project-manager-renewable-energy-forecasting-at-ul-solutions-4463068765 |
+| Siemens Energy | Project Manager- Protection and Control | https://www.linkedin.com/jobs/view/project-manager-protection-and-control-at-siemens-energy-4455434410 |
+| Ford Motor Company | Engineering Project Manager- Systems & Core Architecture | https://www.linkedin.com/jobs/view/engineering-project-manager-systems-core-architecture-at-ford-motor-company-4465352430 |
+| Siemens Energy | Complex Project Manager - Gas Turbine | https://www.linkedin.com/jobs/view/complex-project-manager-gas-turbine-at-siemens-energy-4453264300 |
+| CACI International Inc | IT Project Manager | https://www.linkedin.com/jobs/view/it-project-manager-at-caci-international-inc-4468916124 |
+| EVS, Inc. | Technical Civil Solar Project Manager | https://www.linkedin.com/jobs/view/technical-civil-solar-project-manager-at-evs-inc-4388760054 |
