@@ -74,3 +74,9 @@
 | Siemens Energy | Complex Project Manager - Gas Turbine | https://www.linkedin.com/jobs/view/complex-project-manager-gas-turbine-at-siemens-energy-4453264300 |
 | CACI International Inc | IT Project Manager | https://www.linkedin.com/jobs/view/it-project-manager-at-caci-international-inc-4468916124 |
 | EVS, Inc. | Technical Civil Solar Project Manager | https://www.linkedin.com/jobs/view/technical-civil-solar-project-manager-at-evs-inc-4388760054 |
+
+### Batch Run: 2026-10-02 19:47 CT (Total: 4)
+| Carnival Cruise Line | Project Manager, Technical Projects | https://www.linkedin.com/jobs/view/project-manager-technical-projects-at-carnival-cruise-line-4456351502 |
+| UCAR - The University Corporation for Atmospheric Research | Project Manager II - Research & Development | https://www.linkedin.com/jobs/view/project-manager-ii-research-development-at-ucar-the-university-corporation-for-atmospheric-research-4472222136 |
+| Cognizant | Technical Project Manager - Golang, React & PostgreSQL (Healthcare Provider) | https://www.linkedin.com/jobs/view/technical-project-manager-golang-react-postgresql-healthcare-provider-at-cognizant-4472831119 |
+| WSP in the U.S. | Power & Energy Lifecycle Project Manager | https://www.linkedin.com/jobs/view/power-energy-lifecycle-project-manager-at-wsp-in-the-u-s-4446068927 |
