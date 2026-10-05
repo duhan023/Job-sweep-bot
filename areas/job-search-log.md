@@ -80,3 +80,12 @@
 | UCAR - The University Corporation for Atmospheric Research | Project Manager II - Research & Development | https://www.linkedin.com/jobs/view/project-manager-ii-research-development-at-ucar-the-university-corporation-for-atmospheric-research-4472222136 |
 | Cognizant | Technical Project Manager - Golang, React & PostgreSQL (Healthcare Provider) | https://www.linkedin.com/jobs/view/technical-project-manager-golang-react-postgresql-healthcare-provider-at-cognizant-4472831119 |
 | WSP in the U.S. | Power & Energy Lifecycle Project Manager | https://www.linkedin.com/jobs/view/power-energy-lifecycle-project-manager-at-wsp-in-the-u-s-4446068927 |
+
+### Batch Run: 2026-10-05 21:51 CT (Total: 7)
+| Emerson | Engineering Project Manager - Water Solutions | https://www.linkedin.com/jobs/view/engineering-project-manager-water-solutions-at-emerson-4430487877 |
+| Elanco | Technical Project Manager, Technical Services / Manufacturing Sciences (TS/MS) | https://www.linkedin.com/jobs/view/technical-project-manager-technical-services-manufacturing-sciences-ts-ms-at-elanco-4400130296 |
+| Hitachi Energy | Senior IT Technical Project Manager | https://www.linkedin.com/jobs/view/senior-it-technical-project-manager-at-hitachi-energy-4431154452 |
+| FieldAI | Technical Project Manager, Reality Capture | https://www.linkedin.com/jobs/view/technical-project-manager-reality-capture-at-fieldai-4447701605 |
+| Internet Brands | AI Technical Project Manager | https://www.linkedin.com/jobs/view/ai-technical-project-manager-at-internet-brands-4454635792 |
+| Emerson | Engineering Project Manager - Remote Operation Center Projects | https://www.linkedin.com/jobs/view/engineering-project-manager-remote-operation-center-projects-at-emerson-4420625568 |
+| Kiewit | Project Manager - Kiewit Power Delivery Engineering | https://www.linkedin.com/jobs/view/project-manager-kiewit-power-delivery-engineering-at-kiewit-4329519803 |
