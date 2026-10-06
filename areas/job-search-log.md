@@ -89,3 +89,10 @@
 | Internet Brands | AI Technical Project Manager | https://www.linkedin.com/jobs/view/ai-technical-project-manager-at-internet-brands-4454635792 |
 | Emerson | Engineering Project Manager - Remote Operation Center Projects | https://www.linkedin.com/jobs/view/engineering-project-manager-remote-operation-center-projects-at-emerson-4420625568 |
 | Kiewit | Project Manager - Kiewit Power Delivery Engineering | https://www.linkedin.com/jobs/view/project-manager-kiewit-power-delivery-engineering-at-kiewit-4329519803 |
+
+### Batch Run: 2026-10-06 20:00 CT (Total: 5)
+| Walmart | Project Manager II, Implementation And Sustainment - Supply Chain | https://www.linkedin.com/jobs/view/project-manager-ii-implementation-and-sustainment-supply-chain-at-walmart-4473685739 |
+| Siemens | Project Manager - Power Distribution Solutions | https://www.linkedin.com/jobs/view/project-manager-power-distribution-solutions-at-siemens-4466165459 |
+| BorgWarner | Engineering Project Manager – Drivetrain Systems | https://www.linkedin.com/jobs/view/engineering-project-manager-%E2%80%93-drivetrain-systems-at-borgwarner-4457460953 |
+| Safran | Senior Software Technical Project Manager | https://www.linkedin.com/jobs/view/senior-software-technical-project-manager-at-safran-4475877344 |
+| 1898 & Co. | Senior Geospatial Project Manager - 1898 & Co | https://www.linkedin.com/jobs/view/senior-geospatial-project-manager-1898-co-at-1898-co-4430993082 |
