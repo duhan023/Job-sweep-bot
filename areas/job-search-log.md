@@ -96,3 +96,6 @@
 | BorgWarner | Engineering Project Manager – Drivetrain Systems | https://www.linkedin.com/jobs/view/engineering-project-manager-%E2%80%93-drivetrain-systems-at-borgwarner-4457460953 |
 | Safran | Senior Software Technical Project Manager | https://www.linkedin.com/jobs/view/senior-software-technical-project-manager-at-safran-4475877344 |
 | 1898 & Co. | Senior Geospatial Project Manager - 1898 & Co | https://www.linkedin.com/jobs/view/senior-geospatial-project-manager-1898-co-at-1898-co-4430993082 |
+
+### Batch Run: 2026-10-07 20:26 CT (Total: 1)
+| Openbound | Technical Project Manager - Silicon Photonics (Teradyne, North Reading, MA) | https://www.linkedin.com/jobs/view/technical-project-manager-silicon-photonics-teradyne-north-reading-ma-at-openbound-4476903372 |
