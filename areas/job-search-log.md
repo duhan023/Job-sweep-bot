@@ -99,3 +99,6 @@
 
 ### Batch Run: 2026-10-07 20:26 CT (Total: 1)
 | Openbound | Technical Project Manager - Silicon Photonics (Teradyne, North Reading, MA) | https://www.linkedin.com/jobs/view/technical-project-manager-silicon-photonics-teradyne-north-reading-ma-at-openbound-4476903372 |
+
+### Batch Run: 2026-10-08 20:32 CT (Total: 1)
+| University of Central Florida | IT Project Manager II | https://www.linkedin.com/jobs/view/it-project-manager-ii-at-university-of-central-florida-4475496186 |
