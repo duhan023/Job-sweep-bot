@@ -102,3 +102,6 @@
 
 ### Batch Run: 2026-10-08 20:32 CT (Total: 1)
 | University of Central Florida | IT Project Manager II | https://www.linkedin.com/jobs/view/it-project-manager-ii-at-university-of-central-florida-4475496186 |
+
+### Batch Run: 2026-10-09 20:00 CT (Total: 1)
+| Navy Federal Credit Union | Senior Tech Project Manager - Navy Federal Financial Group | https://www.linkedin.com/jobs/view/senior-tech-project-manager-navy-federal-financial-group-at-navy-federal-credit-union-4477636934 |
