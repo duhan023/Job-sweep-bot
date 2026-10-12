@@ -105,3 +105,10 @@
 
 ### Batch Run: 2026-10-09 20:00 CT (Total: 1)
 | Navy Federal Credit Union | Senior Tech Project Manager - Navy Federal Financial Group | https://www.linkedin.com/jobs/view/senior-tech-project-manager-navy-federal-financial-group-at-navy-federal-credit-union-4477636934 |
+
+### Batch Run: 2026-10-12 22:24 CT (Total: 5)
+| eagle Controls | Senior Technical Project Manager | https://www.linkedin.com/jobs/view/senior-technical-project-manager-at-eagle-controls-4431429128 |
+| Ford Motor Company | Technical Program Manager | https://www.linkedin.com/jobs/view/technical-program-manager-at-ford-motor-company-4433336648 |
+| Tecovas | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-tecovas-4478594525 |
+| Burns & McDonnell | Senior GIS Project Manager - 1898 & Co. (Kansas City) | https://www.linkedin.com/jobs/view/senior-gis-project-manager-1898-co-kansas-city-at-burns-mcdonnell-4324070421 |
+| Siemens | Project Manager - Programs | https://www.linkedin.com/jobs/view/project-manager-programs-at-siemens-4403909392 |
