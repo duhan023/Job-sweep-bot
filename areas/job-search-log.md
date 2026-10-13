@@ -112,3 +112,11 @@
 | Tecovas | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-tecovas-4478594525 |
 | Burns & McDonnell | Senior GIS Project Manager - 1898 & Co. (Kansas City) | https://www.linkedin.com/jobs/view/senior-gis-project-manager-1898-co-kansas-city-at-burns-mcdonnell-4324070421 |
 | Siemens | Project Manager - Programs | https://www.linkedin.com/jobs/view/project-manager-programs-at-siemens-4403909392 |
+
+### Batch Run: 2026-10-13 20:32 CT (Total: 6)
+| Space Kinetic Corp. | Technical Project Manager, Software | https://www.linkedin.com/jobs/view/technical-project-manager-software-at-space-kinetic-corp-4478553351 |
+| Xylem | Project Manager | https://www.linkedin.com/jobs/view/project-manager-at-xylem-4461527128 |
+| Bosch USA | Technical Project Manager – Special Machinery & Automation | https://www.linkedin.com/jobs/view/technical-project-manager-%E2%80%93-special-machinery-automation-at-bosch-usa-4476074626 |
+| Cognizant | Technical Project Manager - Java Full Stack | https://www.linkedin.com/jobs/view/technical-project-manager-java-full-stack-at-cognizant-4477907993 |
+| Hudson River Trading | ASIC Technical Project Manager | https://www.linkedin.com/jobs/view/asic-technical-project-manager-at-hudson-river-trading-4477983943 |
+| Mark Anthony Brewing Inc. | Sr. Technical Project Manager, Operational Technology | https://www.linkedin.com/jobs/view/sr-technical-project-manager-operational-technology-at-mark-anthony-brewing-inc-4478716175 |
