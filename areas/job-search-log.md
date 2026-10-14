@@ -120,3 +120,7 @@
 | Cognizant | Technical Project Manager - Java Full Stack | https://www.linkedin.com/jobs/view/technical-project-manager-java-full-stack-at-cognizant-4477907993 |
 | Hudson River Trading | ASIC Technical Project Manager | https://www.linkedin.com/jobs/view/asic-technical-project-manager-at-hudson-river-trading-4477983943 |
 | Mark Anthony Brewing Inc. | Sr. Technical Project Manager, Operational Technology | https://www.linkedin.com/jobs/view/sr-technical-project-manager-operational-technology-at-mark-anthony-brewing-inc-4478716175 |
+
+### Batch Run: 2026-10-14 19:12 CT (Total: 2)
+| Vanguard | Technical Project Manager, Specialist | https://www.linkedin.com/jobs/view/technical-project-manager-specialist-at-vanguard-4479206284 |
+| Emerson | Engineering Project Manager - Renewables | https://www.linkedin.com/jobs/view/engineering-project-manager-renewables-at-emerson-4470636498 |
