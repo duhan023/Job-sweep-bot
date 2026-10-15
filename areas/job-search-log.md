@@ -124,3 +124,10 @@
 ### Batch Run: 2026-10-14 19:12 CT (Total: 2)
 | Vanguard | Technical Project Manager, Specialist | https://www.linkedin.com/jobs/view/technical-project-manager-specialist-at-vanguard-4479206284 |
 | Emerson | Engineering Project Manager - Renewables | https://www.linkedin.com/jobs/view/engineering-project-manager-renewables-at-emerson-4470636498 |
+
+### Batch Run: 2026-10-15 18:55 CT (Total: 5)
+| Eli Lilly and Company | Project Manager - Equipment Development Group | https://www.linkedin.com/jobs/view/project-manager-equipment-development-group-at-eli-lilly-and-company-4479836948 |
+| MassMutual | Project Manager – Data Science & AI Engineering | https://www.linkedin.com/jobs/view/project-manager-%E2%80%93-data-science-ai-engineering-at-massmutual-4478847544 |
+| Blue Origin | Sr. Technical Project Manager - Lunar Permanence | https://www.linkedin.com/jobs/view/sr-technical-project-manager-lunar-permanence-at-blue-origin-4474473030 |
+| The MetroHealth System (Cleveland, OH) | Project Manager Clinical Engineering & HTM-Clinical Engineering | https://www.linkedin.com/jobs/view/project-manager-clinical-engineering-htm-clinical-engineering-at-the-metrohealth-system-cleveland-oh-4477301599 |
+| Commonwealth Fusion Systems | Senior Equipment Engineering Project Manager | https://www.linkedin.com/jobs/view/senior-equipment-engineering-project-manager-at-commonwealth-fusion-systems-4476828463 |
