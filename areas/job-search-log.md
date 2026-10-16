@@ -131,3 +131,7 @@
 | Blue Origin | Sr. Technical Project Manager - Lunar Permanence | https://www.linkedin.com/jobs/view/sr-technical-project-manager-lunar-permanence-at-blue-origin-4474473030 |
 | The MetroHealth System (Cleveland, OH) | Project Manager Clinical Engineering & HTM-Clinical Engineering | https://www.linkedin.com/jobs/view/project-manager-clinical-engineering-htm-clinical-engineering-at-the-metrohealth-system-cleveland-oh-4477301599 |
 | Commonwealth Fusion Systems | Senior Equipment Engineering Project Manager | https://www.linkedin.com/jobs/view/senior-equipment-engineering-project-manager-at-commonwealth-fusion-systems-4476828463 |
+
+### Batch Run: 2026-10-16 18:39 CT (Total: 2)
+| EY | AI Technical Project Manager | https://www.linkedin.com/jobs/view/ai-technical-project-manager-at-ey-4477331153 |
+| General Motors | Technical Project Manager – Advanced Vehicle Development | https://www.linkedin.com/jobs/view/technical-project-manager-%E2%80%93-advanced-vehicle-development-at-general-motors-4480158737 |
