@@ -135,3 +135,8 @@
 ### Batch Run: 2026-10-16 18:39 CT (Total: 2)
 | EY | AI Technical Project Manager | https://www.linkedin.com/jobs/view/ai-technical-project-manager-at-ey-4477331153 |
 | General Motors | Technical Project Manager – Advanced Vehicle Development | https://www.linkedin.com/jobs/view/technical-project-manager-%E2%80%93-advanced-vehicle-development-at-general-motors-4480158737 |
+
+### Batch Run: 2026-10-20 18:59 CT (Total: 3)
+| Tesla | Sr. Technical Project Manager | https://www.linkedin.com/jobs/view/sr-technical-project-manager-at-tesla-4480412827 |
+| CURE Auto Insurance (Citizens United Reciprocal Exchange) | IT Project Manager | https://www.linkedin.com/jobs/view/it-project-manager-at-cure-auto-insurance-citizens-united-reciprocal-exchange-4480476909 |
+| Swire Coca-Cola, USA | IT Project Manager | https://www.linkedin.com/jobs/view/it-project-manager-at-swire-coca-cola-usa-4480255489 |
