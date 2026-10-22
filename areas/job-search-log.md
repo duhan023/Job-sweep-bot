@@ -140,3 +140,6 @@
 | Tesla | Sr. Technical Project Manager | https://www.linkedin.com/jobs/view/sr-technical-project-manager-at-tesla-4480412827 |
 | CURE Auto Insurance (Citizens United Reciprocal Exchange) | IT Project Manager | https://www.linkedin.com/jobs/view/it-project-manager-at-cure-auto-insurance-citizens-united-reciprocal-exchange-4480476909 |
 | Swire Coca-Cola, USA | IT Project Manager | https://www.linkedin.com/jobs/view/it-project-manager-at-swire-coca-cola-usa-4480255489 |
+
+### Batch Run: 2026-10-22 19:04 CT (Total: 1)
+| Veolia | Water Tech | Project Manager (Water Technologies) | https://www.linkedin.com/jobs/view/project-manager-water-technologies-at-veolia-water-tech-4480070002 |
