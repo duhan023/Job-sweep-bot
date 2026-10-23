@@ -143,3 +143,6 @@
 
 ### Batch Run: 2026-10-22 19:04 CT (Total: 1)
 | Veolia | Water Tech | Project Manager (Water Technologies) | https://www.linkedin.com/jobs/view/project-manager-water-technologies-at-veolia-water-tech-4480070002 |
+
+### Batch Run: 2026-10-23 18:54 CT (Total: 1)
+| Veolia | Water Tech | Project Manager (Water Technologies) | https://www.linkedin.com/jobs/view/project-manager-water-technologies-at-veolia-water-tech-4480070002 |
