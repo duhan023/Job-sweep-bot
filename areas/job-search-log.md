@@ -146,3 +146,8 @@
 
 ### Batch Run: 2026-10-23 18:54 CT (Total: 1)
 | Veolia | Water Tech | Project Manager (Water Technologies) | https://www.linkedin.com/jobs/view/project-manager-water-technologies-at-veolia-water-tech-4480070002 |
+
+### Batch Run: 2026-10-26 20:20 CT (Total: 3)
+| Pratt Miller | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-pratt-miller-4483236815 |
+| HDR | Senior ITS Project Manager | https://www.linkedin.com/jobs/view/senior-its-project-manager-at-hdr-4483242495 |
+| Dolby Laboratories | IT Project Manager | https://www.linkedin.com/jobs/view/it-project-manager-at-dolby-laboratories-4466415361 |
