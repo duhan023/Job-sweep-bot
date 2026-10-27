@@ -151,3 +151,8 @@
 | Pratt Miller | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-pratt-miller-4483236815 |
 | HDR | Senior ITS Project Manager | https://www.linkedin.com/jobs/view/senior-its-project-manager-at-hdr-4483242495 |
 | Dolby Laboratories | IT Project Manager | https://www.linkedin.com/jobs/view/it-project-manager-at-dolby-laboratories-4466415361 |
+
+### Batch Run: 2026-10-27 19:53 CT (Total: 3)
+| May Mobility | Senior Autonomy Technical Project Manager | https://www.linkedin.com/jobs/view/senior-autonomy-technical-project-manager-at-may-mobility-4484083131 |
+| FORVIA HELLA | PROJECT MANAGER – ADAS SYSTEMS | https://www.linkedin.com/jobs/view/project-manager-%E2%80%93-adas-systems-at-forvia-hella-4484202576 |
+| Arcwood Environmental | Engineering Project Manager - Capital Projects | https://www.linkedin.com/jobs/view/engineering-project-manager-capital-projects-at-arcwood-environmental-4483722040 |
