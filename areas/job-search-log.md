@@ -160,3 +160,6 @@
 ### Batch Run: 2026-10-28 20:06 CT (Total: 2)
 | Western Governors University | Project Manager II - Technical | https://www.linkedin.com/jobs/view/project-manager-ii-technical-at-western-governors-university-4484732209 |
 | ADP | Lead Implementation Project Manager | https://www.linkedin.com/jobs/view/lead-implementation-project-manager-at-adp-4482520184 |
+
+### Batch Run: 2026-10-29 20:05 CT (Total: 1)
+| Whitefox | Project Manager - Industrial - Ethanol | https://www.linkedin.com/jobs/view/project-manager-industrial-ethanol-at-whitefox-4482559402 |
