@@ -163,3 +163,6 @@
 
 ### Batch Run: 2026-10-29 20:05 CT (Total: 1)
 | Whitefox | Project Manager - Industrial - Ethanol | https://www.linkedin.com/jobs/view/project-manager-industrial-ethanol-at-whitefox-4482559402 |
+
+### Batch Run: 2026-10-30 19:52 CT (Total: 1)
+| EcoShot | Technical Project Manager | https://www.linkedin.com/jobs/view/technical-project-manager-at-ecoshot-4484815988 |
